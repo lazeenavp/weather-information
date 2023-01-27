@@ -1,0 +1,24 @@
+.link{
+    margin-left: auto;
+  }
+  
+  .link1{
+    text-decoration: none;
+    color: green;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 20px;
+  
+  }
+  
+  .home{
+    color:green;
+    font-size: 50px;
+    font-weight: bolder;
+  }
+  
+  
+  .nav{
+    background-color:lightgray;
+    color: silver;
+  }
